@@ -5,6 +5,7 @@ function Calculator() {
 
 }
 
+//Comment
 Calculator.prototype.storedValue = undefined;
 
 Calculator.prototype.add = (val1, val2) => {
